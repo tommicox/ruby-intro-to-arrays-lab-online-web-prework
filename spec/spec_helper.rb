@@ -11,5 +11,5 @@ def instantiate_new_array
 end
 
 def create_array
-  ["Ezra", "Evie"]
+  ["Ezra", "Evie", "Kinsley"]
 end
