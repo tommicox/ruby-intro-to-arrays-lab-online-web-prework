@@ -10,7 +10,7 @@ def instantiate_new_array
   []
 end
 
-def create_array_with_two
+def instantiate_new_array
   ["Sit", "Spot"]
  
 end
