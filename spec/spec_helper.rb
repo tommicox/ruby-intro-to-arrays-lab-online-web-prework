@@ -15,5 +15,5 @@ def array_with_two_elements
  
 end
 def array_with_two_elements
-  [0]
+  
 end
