@@ -33,5 +33,7 @@ end
       south_east_asia[3]
     end
     def length_of_array
+      [].length
+    end
     
   
