@@ -6,6 +6,6 @@ RSpec.configure do |config|
   end
 
 end
-def intantiate_new_array
+def instantiate_new_array
   []
 end
