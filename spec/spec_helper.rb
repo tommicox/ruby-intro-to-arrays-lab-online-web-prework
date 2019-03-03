@@ -6,3 +6,6 @@ RSpec.configure do |config|
   end
 
 end
+def create_an_array
+  []
+end
