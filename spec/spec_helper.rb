@@ -6,6 +6,6 @@ RSpec.configure do |config|
   end
 
 end
-def create_an_array
+def intantiate_new_array
   []
 end
