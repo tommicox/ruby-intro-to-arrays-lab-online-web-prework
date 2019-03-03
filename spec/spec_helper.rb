@@ -10,6 +10,7 @@ def instantiate_new_array
   []
 end
 
-def create_array["Ezra", "Evie"]
+def create_array
+  ["Sit", "Spot"]
  
 end
