@@ -10,7 +10,7 @@ def instantiate_new_array
   []
 end
 
-def create_two_spot_array(puppies)
- puppies = ["Owen", "Dodger"]
+def array_with_two_elements
+ ["Owen", "Dodger"]
  
 end
