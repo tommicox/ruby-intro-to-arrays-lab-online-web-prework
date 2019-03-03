@@ -14,5 +14,6 @@ def array_with_two_elements
  ["Owen", "Dodger"]
  
 end
-def array_with_two_elements[0]
+def array_with_two_elements
+  [0]
 end
